@@ -165,21 +165,6 @@ Cards fade in and slide up as they enter the viewport using Intersection Observe
 ### Form Handling
 Client-side validation with visual feedback and success/error messages.
 
-## 🚀 Deployment
-
-### GitLab Pages
-This project is ready for GitLab Pages deployment:
-
-1. Go to Settings > Pages in your GitLab project
-2. Select the branch (main)
-3. The site will be available at: `https://nishu5291521-group.gitlab.io/nishu5291521-project/`
-
-### Other Hosting Options
-- **Netlify**: Drag and drop the project folder
-- **Vercel**: Connect your GitLab repository
-- **GitHub Pages**: Push to GitHub and enable Pages
-- **Any web server**: Upload files via FTP
-
 ## 📄 License
 
 This project is open source and available for educational purposes.
