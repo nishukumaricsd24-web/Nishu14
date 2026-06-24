@@ -162,8 +162,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 For questions or support:
-- Email: info@excellence.edu
-- Website: [Excellence College](https://gitlab.com/nishu5291521-group/nishu5291521-project)
+- Email: nishu14project@gmail.com
+- Website: [Excellence College]( https://nishukumaricsd24-web.github.io/Nishu14/)
 
 ## 🙏 Acknowledgments
 
