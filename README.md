@@ -53,6 +53,7 @@ follow these steps to run the project locally:
   ```
 git clone
 https://github.com/nishukumaricsd24-web/Nishu14.git
+cd Nishu14
 2. Open the project folder
 3. Open index.html in any modern web browser.
 4. The website will start running locally.
