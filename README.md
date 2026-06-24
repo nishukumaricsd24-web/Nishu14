@@ -34,7 +34,7 @@ A modern, responsive college website showcasing programs, faculty, admissions, a
 ## 📁 Project Structure
 
 ```
-.
+Excellence-College-Website/
 ├── index.html          # Main HTML file with all sections
 ├── style.css           # Complete styling and responsive design
 ├── script.js           # Interactive features and form handling
@@ -47,31 +47,16 @@ A modern, responsive college website showcasing programs, faculty, admissions, a
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - No build tools or dependencies required
 
-### Installation
+### How to Run the Project
+follow these steps to run the project locally:
+1. Clone the repository
+  ```
+git clone
 
-1. Clone the repository:
-```bash
-git clone https://gitlab.com/nishu5291521-group/nishu5291521-project.git
-```
+2. Open the project folder
+3. Open index.html in any modern web browser.
+4. The website will start running locally.
 
-2. Navigate to the project directory:
-```bash
-cd nishu5291521-project
-```
-
-3. Open `index.html` in your browser:
-```bash
-# On macOS
-open index.html
-
-# On Linux
-xdg-open index.html
-
-# On Windows
-start index.html
-```
-
-Or simply double-click the `index.html` file.
 
 ## 💻 Usage
 
